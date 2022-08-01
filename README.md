@@ -1,4 +1,4 @@
-### Olá!
+### Olá! 👋
 
 -Aprendendo Front-end<br/>
 -Cursando analise e desenvolvimento de sistemas pela ampli (primeiro semestre)
